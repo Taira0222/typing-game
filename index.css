@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+
+.input-word{
+  display: block;
+  margin: 0 auto 20px;
+  padding: 3px 25px;
+
+}
+
+button{
+  background-color: rgb(216, 92, 35);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0 ,0 ,0.3);
+  margin-right:30px;
+
+}
+
+.text-repair{
+  color: red;
+  font-weight: bold;
+}
